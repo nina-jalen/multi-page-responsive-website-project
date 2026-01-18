@@ -6,7 +6,7 @@ A modern, fully responsive multi-page website built with fictitious content as t
 
 [![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-%23FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://multi-page-responsive-website-project.netlify.app/)
 
-## ⚙️ Key Features**
+## ⚙️ Key Features
 
 * **Fully responsive** on desktop, tablet, and mobile 📱💻
 * **Multi-page** website with clear navigation 🧭
